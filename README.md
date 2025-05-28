@@ -11,7 +11,7 @@
 - This project is going to be the death of me. But if you've read this far you will know I thought the same of every software development and programing challenge I took up and might I add here that I am a self taught developer and only ever wrote code or did development for fun or out of curiosity never as a professional endeavor.
 - 💞️ Always happy to talk all things tech.
 - Always looking to collaborate and synergize.
-- 📫 Feel free to reach out via call/WhatsApp me on my WhatsApp: https://wa.me/923334083492 or email me at mianfaizanxgp@gmail.com / mian.faizan@virtualworld.live
+- 📫 Feel free to reach out via call/WhatsApp me on my WhatsApp: https://wa.me/923334083492 or email me at mianfaizanxgp@gmail.com / mian@innovativelabs.us
 <!---
 faizanxgp/faizanxgp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
